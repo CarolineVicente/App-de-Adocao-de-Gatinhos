@@ -1,0 +1,2 @@
+Lista de gatinhos para adoção
+Separados por: sexo, idade, cor
